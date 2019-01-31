@@ -5,9 +5,9 @@ collection: publications
 permalink: /publication/2013-09-01-analisis-squid-safesquid-polipo
 excerpt: 'Penelitian ini untuk membandingkan beberapa sistem operasi pada proxy server yaitu squid, safesquid dan polipo untuk mendapatkan sistem operasi proxy server yang cocok pada jaringan yang dirancang.'
 date: 2013-09-01
-venue: 'Emitor'
+venue: 'Jurnal Emitor'
 paperurl: 'https://publikasiilmiah.ums.ac.id/xmlui/handle/11617/4581'
-citation: 'Al Irsyadi, F.Y., Nugroho, Y.S., Wuryanto, D. (2013). &quot;Analisa Kecepatan Proxy Squid, Safesquid dan Polipo Pada Ubuntu Server.&quot; <i>Jurnal KomuniTi</i>. 13(2).'
+citation: 'Al Irsyadi, F.Y., Nugroho, Y.S., Wuryanto, D. (2013). &quot;Analisa Kecepatan Proxy Squid, Safesquid dan Polipo Pada Ubuntu Server.&quot; <i>Emitor</i>. 13(2).'
 ---
 Penelitian ini untuk membandingkan beberapa sistem operasi pada proxy server yaitu squid, safesquid dan polipo untuk mendapatkan sistem operasi proxy server yang cocok pada jaringan yang dirancang.
 
