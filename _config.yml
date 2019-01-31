@@ -80,38 +80,38 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "My Biography"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Read for more details"
+  location         : "https://goo.gl/maps/RXCmfsZF5CR2"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=2NpK0EnWhdsC&hl=id&authuser=2"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Yusuf_Nugroho4"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/yusufsn"
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/yusufsn"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/nugrohoyusuf/"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/8402628/yusuf"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCFZxPOYt9IYy0jMTd4SNa8Q"
   wikipedia        :
 
 
