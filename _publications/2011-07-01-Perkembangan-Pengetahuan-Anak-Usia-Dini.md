@@ -2,7 +2,7 @@
 title: "Perkembangan Pengetahuan Anak Usia Dini Melalui Permainan Komputer Edukatif (Studi Kasus TK Aisyiyah 3 Salatiga)
 "
 collection: publications
-permalink: /publication/2011-07-01-Perkembangan-Pengetahuan-Anak-Usia-Dini-Melalui-Permainan-Komputer-Edukatif
+permalink: /publication/2011-07-01-Perkembangan-Pengetahuan-Anak-Usia-Dini
 excerpt: 'Pelaksanaan penelitian ini bertujuan untuk mengetahui pengaruh pemanfaatan teknologi komputer terhadap peningkatan kecerdasan dan kreatifitas anak didik TK dengan berbagai jenis permainan komputer edukatif.'
 date: 2011-07-01
 venue: 'Jurnal KomuniTi FKI UMS'
