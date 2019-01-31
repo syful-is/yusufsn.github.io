@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* S.T. in Dept. of Electrical Engineering, Universitas Muhammadiyah Surakarta, Indonesia, 2003
+* M.Eng. in Dept. of Electrical Engineering, Universitas Gadjah Mada, Indonesia, 2009
+* Ph.D in Dept. of Information Science, Nara Institute of Science and Technology, Japan 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2009 - Current: Lecturer in Dept. of Informatics
+  * Universitas Muhammadiyah Surakarta
+  * Primary task: Teaching
+  * Other tasks: Research, Public service
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2017: PhD Student
+  * Nara Institute of Science and Technology
+  * Duties included: Empirical analysis on different diff algorithms
+  * Co Supervisor: Hideaki Hata, PhD.
+  * Supervisor: Professor Kenichi Matsumoto
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -56,4 +49,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 2 different slack teams
