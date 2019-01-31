@@ -13,4 +13,4 @@ Pelaksanaan penelitian ini bertujuan untuk mengetahui pengaruh pemanfaatan tekno
 
 [Download paper here](http://journals.ums.ac.id/index.php/komuniti/article/download/2966/1901)
 
-Recommended citation: Nugroho, Y.S. (2011). "Perkembangan Pengetahuan Anak Usia Dini Melalui Permainan Komputer Edukatif (StudiKasus TK Aisyiyah 3 Salatiga)" <i>Jurnal KomuniTi</i>. 3(1).
+Recommended citation: Nugroho, Y.S. (2011). "Perkembangan Pengetahuan Anak Usia Dini Melalui Permainan Komputer Edukatif (Studi Kasus TK Aisyiyah 3 Salatiga)" <i>Jurnal KomuniTi</i>. 3(1).
