@@ -21,4 +21,4 @@ Still, learning it all was a struggle. Where do I learn? What do I learn? I knew
 
 Current work
 ======
-A PhD student in Software Engineering Laboratory, Graduate School of Information Science in Nara Institute of Science and Technology, Japan.
+A PhD student in Software Engineering Laboratory, Graduate School of Science and Technology at the Nara Institute of Science and Technology, Japan.

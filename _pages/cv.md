@@ -24,7 +24,7 @@ Work experience
 
 * Fall 2017: PhD Student
   * Nara Institute of Science and Technology
-  * Duties included: Empirical analysis on different diff algorithms
+  * Research topic: Software analytics for new insights
   * Co Supervisor: Hideaki Hata, PhD.
   * Supervisor: Professor Kenichi Matsumoto
   
