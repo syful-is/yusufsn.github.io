@@ -13,7 +13,7 @@ Education
 ======
 * S.T. in Dept. of Electrical Engineering, Universitas Muhammadiyah Surakarta, Indonesia, 2003
 * M.Eng. in Dept. of Electrical Engineering, Universitas Gadjah Mada, Indonesia, 2009
-* Ph.D in Dept. of Information Science, Nara Institute of Science and Technology, Japan 2020 (expected)
+* Ph.D in Dept. of Information Science, Nara Institute of Science and Technology, Japan, 2020 (expected year of completion)
 
 Work experience
 ======
