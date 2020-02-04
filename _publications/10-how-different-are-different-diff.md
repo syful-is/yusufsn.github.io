@@ -1,0 +1,15 @@
+---
+title: "How different are different diff algorithms in Git? Use --histogram for code changes"
+collection: publications
+permalink: /publication/2020/01/10-how-different-are-different-diff
+excerpt: 'Automatic identification of the differences between two versions of a file is a common and basic task in several applications of mining code repositories. Git, a version control system, has a diff utility and users can select algorithms of diff from the default algorithm Myers to the advanced Histogram algorithm. From our systematic mapping, we identified three popular applications of diff in recent studies. On the impact on code churn metrics in 14 Java projects, we obtained different values in 1.7% to 8.2% commits based on the different diff algorithms. Regarding bug-introducing change identification, we found 6.0% and 13.3% in the identified bug-fix commits had different results of bug-introducing changes from 10 Java projects. For patch application, we found that the Histogram is more suitable than Myers for providing the changes of code, from our manual analysis. Thus, we strongly recommend using the Histogram algorithm when mining Git repositories to consider differences in source code.'
+date: 2020/01/10
+venue: 'Empirical Software Engineering, Vol. 25, No. 1, pp. 790-823, January 2020.'
+paperurl: 'https://doi.org/10.1007/s10664-019-09772-z'
+citation: 'Nugroho, Y. S., Hata, H., &amp; Matsumoto, K. (2019). How Different Are Different diff Algorithms in Git? Use --histogram for Code Changes. Empirical Software Engineering. https://doi.org/10.1007/s10664-019-09772-z'
+---
+Automatic identification of the differences between two versions of a file is a common and basic task in several applications of mining code repositories. Git, a version control system, has a diff utility and users can select algorithms of diff from the default algorithm Myers to the advanced Histogram algorithm. From our systematic mapping, we identified three popular applications of diff in recent studies. On the impact on code churn metrics in 14 Java projects, we obtained different values in 1.7% to 8.2% commits based on the different diff algorithms. Regarding bug-introducing change identification, we found 6.0% and 13.3% in the identified bug-fix commits had different results of bug-introducing changes from 10 Java projects. For patch application, we found that the Histogram is more suitable than Myers for providing the changes of code, from our manual analysis. Thus, we strongly recommend using the Histogram algorithm when mining Git repositories to consider differences in source code.
+
+[Download paper here](https://doi.org/10.1007/s10664-019-09772-z)
+
+Recommended citation: Nugroho, Y. S., Hata, H., & Matsumoto, K. (2019). How Different Are Different diff Algorithms in Git? Use --histogram for Code Changes. Empirical Software Engineering. https://doi.org/10.1007/s10664-019-09772-z
